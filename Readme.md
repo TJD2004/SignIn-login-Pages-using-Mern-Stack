@@ -44,13 +44,6 @@ This project demonstrates a complete full-stack **user authentication system**. 
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Replace these with your actual screenshots)*
-
-![Register Page](screenshots/register.png)  
-![Login Page](screenshots/login.png)  
-![Dashboard](screenshots/dashboard.png)
 
 ---
 
